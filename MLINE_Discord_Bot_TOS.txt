@@ -1,0 +1,46 @@
+
+Terms of Service for MLINE Discord Bot
+
+1. Acceptance of Terms
+By using the MLINE Discord Bot (hereafter referred to as "the Bot"), you agree to comply with and be bound by the following terms and conditions. If you do not agree to these terms, you should not use the Bot.
+
+2. Usage of the Bot
+The Bot is available for use in your Discord server. By inviting and using the Bot, you agree to:
+
+- Use the Bot in a manner that complies with Discord’s Terms of Service and Community Guidelines.
+- Not use the Bot for any illegal or malicious purposes, including but not limited to harassment, spam, or unauthorized data collection.
+- Understand that the Bot may collect usage data and feedback for the purpose of improving its functionality.
+
+3. Bot Features
+The Bot provides certain features, such as commands, tools, and integrations. These features may change over time, and the Bot’s functionality may be updated, modified, or discontinued at any time at the sole discretion of the Bot’s developers.
+
+4. User Data and Privacy
+The Bot may collect and process data from Discord servers where it is installed. This includes server information, user activity data, and commands issued to the Bot.
+
+- Data Collection: The Bot may store and access certain server data to function properly. However, any personally identifiable information (PII) will not be collected unless explicitly specified.
+- Privacy: We take your privacy seriously. The Bot will not sell or share any personal data unless required by law.
+
+5. Restrictions
+You are prohibited from:
+
+- Modifying, disassembling, or reverse-engineering the Bot or its source code.
+- Using the Bot in ways that could harm, disable, or overload its servers or disrupt the normal functioning of Discord.
+- Distributing the Bot or making unauthorized copies of it.
+
+6. Termination of Access
+We reserve the right to remove or suspend access to the Bot for users or servers that violate these terms. If you believe your access was terminated in error, please contact the Bot’s support team.
+
+7. Disclaimer of Warranty
+The Bot is provided "as-is" without warranties of any kind, either express or implied. We do not guarantee the Bot’s availability, accuracy, or functionality.
+
+8. Limitation of Liability
+We shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the Bot, including but not limited to any loss of data, server downtime, or financial loss.
+
+9. Changes to the Terms
+We reserve the right to update or change these Terms of Service at any time. Any changes will be communicated via the Bot’s support channels or website.
+
+10. Governing Law
+These terms are governed by and construed in accordance with the laws of the country where the Bot’s developers are based, without regard to its conflict of law principles.
+
+11. Contact Information
+If you have any questions or concerns about the Bot or these Terms of Service, please contact us at [support email or contact method].
